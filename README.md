@@ -39,3 +39,7 @@ The user enters a goal in the input form.
 The system sends it to an AI backend (e.g., Gemini or OpenAI) via API.
 The AI returns a structured breakdown with tasks, durations, and dependencies.
 The frontend renders each task as an interactive card with timeline details.
+
+
+**DEMO VIDEO:**
+https://drive.google.com/file/d/1N6i8m7UEkgt8aN9SHNcWaZ8TKfb6FqX0/view?usp=drive_link
